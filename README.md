@@ -26,7 +26,8 @@
 ## 💬 Let's Connect!  
 - **Portfolio:** [dhanrajavhad.dev](https://dhanraj-portfolio-in.vercel.app/)  
 - **LinkedIn:** [linkedin.com/in/dhanraj-avhad](https://www.linkedin.com/in/dhanraj-avhad-368795229/)  
-- **Twitter:** [@dhanraj_4](https://x.com/dhanraj_4_)  
+- **Twitter:** [@dhanraj_4](https://x.com/dhanraj_4_)
+- **Email:** dhanraj30102002@gmail.com
 ---
 
 <!--
