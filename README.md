@@ -31,9 +31,11 @@
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white" />
 </p>
 ---
+
 ## 🌟 Featured Projects
+
 ### **🚀 SaaS & Full-Stack**  
-- **AI Gallery SaaS** – .
+- **AI Gallery SaaS** – Automatic resizing and formatting for all major social media platforms .
 
 ---
 ### **🛠 Blockchain & DeFi** 
