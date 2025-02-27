@@ -1,7 +1,7 @@
 
 # Hi there 👋,  
 
-### 🚀 Full-Stack & SaaS Developer | Blockchain Enthusiast  
+### 🚀 Full-Stack & SaaS Developer | Blockchain Developer  
 
 ### 🔭 Currently building **AI-driven SaaS applications** and **scalable full-stack solutions**  
 ---
