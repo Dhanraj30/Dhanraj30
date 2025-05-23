@@ -8,12 +8,10 @@
 
 ## 🛠 Skills & Tools  
 
-### **Languages:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white)  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+### **Languages:**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white)  ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
 
 ### **Frameworks & Tools:**  
 <p align="center">
@@ -30,12 +28,13 @@
   <img src="https://img.shields.io/badge/-NeonDB-FF6F61?logo=neondb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white" />
 </p>
----
+
 
 ## 🌟 Featured Projects
 
 ### **🚀 SaaS & Full-Stack**  
 - **AI Gallery SaaS** – Automatic resizing and formatting for all major social media platforms .
+- **iNote-ai** - Ai note taking assistant powerd by Gemini ai and Hugginface with Supabase .
 
 ---
 ### **🛠 Blockchain & DeFi** 
